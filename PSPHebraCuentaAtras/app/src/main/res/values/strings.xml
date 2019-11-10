@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSPHebraCuentaAtras</string>
+    <string name="saludo">Saludos humano</string>
+    <string name="bt">Cuenta atrás</string>
+</resources>
